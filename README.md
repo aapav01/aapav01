@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aapav01
+- 👀 I’m interested in Embedded Technologies, Application development and Mobile Application
+- 💞️ I’m looking to collaborate on Open Soures
+- 📫 Email me at: info@apavayan.com / aapav01@gmail.com
