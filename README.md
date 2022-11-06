@@ -1,4 +1,19 @@
-# 👋 Hi, I’m Apavayan Sinha
+<h1 align="center">👋 Hi, I’m Apavayan Sinha</h1>
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=aapav01&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=aapav01&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=aapav01&show_icons=true" />
+  </picture>
+</p>
+
 - 👀 I’m interested in Embedded Technologies, Application development and Mobile Application
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 Email me at: info@apavayan.com / aapav01@gmail.com
