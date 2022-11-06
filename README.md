@@ -1,7 +1,20 @@
 <h1 align="center">👋 Hi, I’m Apavayan Sinha</h1>
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aapav01" alt="Apavayan Sinha" /></p>
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=aapav01&show_icons=true&theme=tokyonight"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=aapav01&theme=tokyonight_duo"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=aapav01"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aapav01" alt="Apavayan Sinha" />
+  </picture>
+</p>
 <p align="center">
   <picture>
     <source 
