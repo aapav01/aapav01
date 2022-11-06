@@ -3,8 +3,7 @@
 
 <p align="center">
   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=aapav01&show_icons=true&theme=tokyonight"
+    <source
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=aapav01&theme=tokyonight_duo"
       media="(prefers-color-scheme: dark)"
     />
