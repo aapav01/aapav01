@@ -6,6 +6,6 @@
 ### GitHub Trophies 🏆
 <p align="center">
   <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
-    <img width="75%" src="https://github-trophies.vercel.app/?username=aapav01&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=monokai"/>
+    <img width="75%" src="https://github-trophies.vercel.app/?username=aapav01&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia"/>
   </a>
 </p>
