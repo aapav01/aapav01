@@ -1,5 +1,12 @@
 <h1 align="center">👋 Hi, I’m Apavayan Sinha</h1>
 
+- 🔭 I’m currently Looking for a Job Opening
+- 👀 I’m interested in Embedded Technologies, Application development and Mobile Application
+- 💞️ I’m looking to collaborate on OpenSource Projects
+- 📫 Email me at: info@apavayan.com / aapav01@gmail.com
+
+
+### GitHub Stats
 
 <p align="center">
   <picture>
@@ -38,11 +45,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aapav01&layout=compact&langs_count=8" />
   </picture>
 </p>
-
-- 🔭 I’m currently Looking for a Job Opening
-- 👀 I’m interested in Embedded Technologies, Application development and Mobile Application
-- 💞️ I’m looking to collaborate on OpenSource Projects
-- 📫 Email me at: info@apavayan.com / aapav01@gmail.com
 
 ### GitHub Trophies 🏆
 <p align="center">
