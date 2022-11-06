@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aapav01
+### 👋 Hi, I’m Apavayan Sinha
 - 👀 I’m interested in Embedded Technologies, Application development and Mobile Application
-- 💞️ I’m looking to collaborate on Open Soures
+- 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 Email me at: info@apavayan.com / aapav01@gmail.com
 
 ### GitHub Trophies 🏆
