@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I’m Apavayan Sinha</h1>
 
 - 🔭 I’m currently Looking for a Job Opening.
-- 🌱 I’m currently learning **Machine Learning and A.I.**
-- 👀 I’m interested in Embedded Technologies, Web Application and Mobile Application Development
+- 🌱 I’m currently learning **SpringBoot Framework - Java**
+- 👀 I’m interested in Embedded Technologies, Web Applications And AI/M.L. Applications.
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 Email me at: info@apavayan.com / aapav01@gmail.com
 
