@@ -1,10 +1,11 @@
 <h1 align="center">👋 Hi, I’m Apavayan Sinha</h1>
 
-- 🔭 I’m currently Looking for a Job Opening.
-- 🌱 I’m currently learning **SpringBoot Framework - Java**
-- 👀 I’m interested in Embedded Technologies, Web Applications And AI/M.L. Applications.
-- 💞️ I’m looking to collaborate on OpenSource Projects
+- 🔭 I’m currently Seeking a Job Opening in Java Full-Stack Development.
+- 🌱 I’m currently on the learning roadmap of **SpringBoot Framework - Java** by Coding Ninjas Bootcamp program.
+- 👀 I have shared my projects showcasing the Web Dev Project and my hobbies (80% repos) like working on embedded systems (kernel and OS) including IoT projects. 
+- 💞️ I like to collaborate on OpenSource Projects and consider it as a part of the journey of innovation.
 - 📫 Email me at: info@apavayan.com / aapav01@gmail.com
+- **Technical Skills**: React 18+, Next.js 14, JavaScript, TypeScript 5, Node.js 18, Spring Boot 3, Java 17, C/C++, Django, Python, HTML+CSS3 and PHP 8.
 
 <h3 align="center">Reach out to me ⚡</h3>
 <p align="center">
