@@ -64,13 +64,6 @@ passion: "Architecting robust systems, contribution to open-source projects
 
 </div>
 
-### **Advanced Proficiencies**
-- **Frontend Mastery**: React 18 (4+ years), Next.js 14+, TypeScript 5, Redux, Server-Side Rendering, Progressive Web Apps
-- **MERN Stack Excellence**: MongoDB, Express.js, React, Node.js (2+ years), RESTful APIs, GraphQL
-- **Backend Technologies**: Node.js 18+, Spring Boot 3, Spring Cloud, JWT Authentication, Microservices Architecture
-- **Database Management**: MySQL/MariaDB, MongoDB, Redis Caching, Firebase Real-time Database
-- **AI/ML Integration**: Fine-tuning, Agentic AI, Workflow Automation, RAG Implementation
-- **Cloud & DevOps**: AWS Services, Docker Containerization, Nginx Configuration, Linux Administration
 
 ## 📊 GitHub Analytics & Performance
 <div align="center">
