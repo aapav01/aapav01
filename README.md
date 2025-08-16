@@ -68,7 +68,8 @@ passion: "Architecting robust systems, contribution to open-source projects
 ## 📊 GitHub Analytics & Performance
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aapav01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aapav01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aapav01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=c,makefile,perl,assembly,shell,erlang,yacc,objective-c,c%2B%2B"/>
+<!--     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html) -->
 </div>
 <div align="center">
   <picture>
